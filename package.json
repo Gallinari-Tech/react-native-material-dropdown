@@ -1,6 +1,6 @@
 {
   "name": "react-native-material-dropdown",
-  "version": "0.11.4",
+  "version": "0.11.5",
   "license": "BSD-3-Clause",
   "author": "Alexander Nazarov <n4kz@n4kz.com>",
 
@@ -40,9 +40,9 @@
   },
 
   "dependencies": {
-    "prop-types": "^15.5.9",
+    "prop-types": "^15.7.2",
     "react-native-material-buttons": "^0.6.0",
     "react-native-material-ripple": "^0.9.1",
-    "react-native-material-textfield": "^0.16.0"
+    "react-native-material-textfield": "git+https://github.com/noway/react-native-material-textfield.git#v0_12_0_with_0_62_fixes"
   }
 }
